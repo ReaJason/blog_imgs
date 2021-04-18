@@ -17,13 +17,14 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WalineUsage_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WalineUsage_index_img.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/GraduationProject_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/GraduationProject_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PythonLearning_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PythonLearning_index_img.jpg)
 ## 🎨WBTopicCheckTool_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/check_in.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/check_in.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png)
-## 🦄AndroidFlashRom_img
+## 💫AndroidFlashRom_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/xp_module.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/xp_module.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/usb_flash.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/usb_flash.png)
@@ -35,7 +36,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/unlock_success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/unlock_success.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/magisk.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/magisk.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/TWRP_first.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/TWRP_first.jpg)
-## 💦default
+## ⚡default
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg)
