@@ -9,9 +9,12 @@
 -----
 ## 🌈封面图
 
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/HardExperience_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/HardExperience_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ForeverAlgorithm_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ForeverAlgorithm_index_img.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_index_img.jpg)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2022AnnualGoals_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2022AnnualGoals_index_img.jpg)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FailureProjectExperience_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FailureProjectExperience_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AprilFools_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AprilFools_index_img.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF_index_img.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/STL_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/STL_index_img.jpg)
@@ -21,9 +24,10 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AlipayAutoSync_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AlipayAutoSync_index_img.jpg)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/CodeCompletion_index_img.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/CodeCompletion_index_img.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_index_img.png)
-## 🐶17wanxiaoCheckInSCF
+## 🐣17wanxiaoCheckInSCF
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/查看推送.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/查看推送.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/支付宝.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/支付宝.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/测试代码.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/测试代码.png)
@@ -42,23 +46,24 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/测试结果.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/测试结果.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/执行日志1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/执行日志1.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/two.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/two.png)
-## 💫ManInLoveReview_img
+## ⚡ManInLoveReview_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/1.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/4.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/4.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/3.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/3.png)
-## 🔰emote
+## 🐋emote
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视)
-## 💤default
+## 🐣default
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/website.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/website.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/link.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/link.png)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/timeline.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/timeline.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/about.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/about.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/blog_avatar.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/blog_avatar.jpg)
@@ -73,7 +78,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/后台首页.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/后台首页.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/博客首页.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/博客首页.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/需求查看.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/需求查看.png)
-## 🐶17WanXiaoHookGetDeviceId_img
+## 🦄17WanXiaoHookGetDeviceId_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginreqdata.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginreqdata.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/360.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/360.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginnew.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginnew.png)
@@ -97,7 +102,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletUML.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletUML.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletRequestUML.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletRequestUML.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletResponse.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletResponse.png)
-## 💦AndroidFlashRom_img
+## 🐋AndroidFlashRom_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/format_data.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/format_data.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/lsp.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/lsp.jpg)
@@ -109,10 +114,10 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/magisk.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/magisk.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/Redmi_K20_Pro_XDA.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/Redmi_K20_Pro_XDA.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/flash_rom.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/flash_rom.jpg)
-## 💤PLSQL&NavicatConnectOracle11g_index_img
+## 🔰PLSQL&NavicatConnectOracle11g_index_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/navicat.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/navicat.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/plsql.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/plsql.png)
-## 💫WindowsUsage_img
+## 🔰WindowsUsage_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/QQ.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/QQ.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/磁盘管理.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/磁盘管理.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/Snipaste.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/Snipaste.png)
@@ -132,7 +137,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/win.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/win.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/dism++.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/dism++.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/Mscrosoft_Edge_favorites.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/Mscrosoft_Edge_favorites.png)
-## 🎨WBTopicCheckTool_img
+## 🐶WBTopicCheckTool_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png)
