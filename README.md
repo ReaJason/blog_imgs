@@ -40,7 +40,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/LinuxLearning_index_img.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2024AnnualWishes_index_img.jpeg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2024AnnualWishes_index_img.jpeg)
-## 🎨JavaRASPwithByteBuddy_img
+## 🐬JavaRASPwithByteBuddy_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/idea_init.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/idea_init.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/project_run.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/project_run.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/cmd_args.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/cmd_args.png)
@@ -52,26 +52,29 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/localhostcmd.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/localhostcmd.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/print_args.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/print_args.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/cmd_impl.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRASPwithByteBuddy_img/cmd_impl.png)
-## 🦄WBTopicCheckTool_img
+## 🐋WBTopicCheckTool_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/home.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/scan_login.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/check_in.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/check_in.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WBTopicCheckTool_img/login_success.png)
-## ⚡ManInLoveReview_img
+## 🐋ManInLoveReview_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/4.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/4.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/3.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/3.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/ManInLoveReview_img/1.png)
-## 🦄20240907diary
+## 💦20240907diary
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/20240907diary/20240829.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/20240907diary/20240829.png)
-## 🐣PLSQL&NavicatConnectOracle11g_index_img
+## 💫JavaRemoteDebug_img
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRemoteDebug_img/ChangeDebugSource.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRemoteDebug_img/ChangeDebugSource.png)
+[https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRemoteDebug_img/JavaRemoteConfig.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaRemoteDebug_img/JavaRemoteConfig.png)
+## 🐬PLSQL&NavicatConnectOracle11g_index_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/plsql.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/plsql.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/navicat.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/PLSQL&NavicatConnectOracle11g_index_img/navicat.png)
-## 🎨BeStrongerAndBetter_img
+## 🐣BeStrongerAndBetter_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/notes.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/notes.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/todolist.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/todolist.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/place.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/BeStrongerAndBetter_img/place.jpg)
-## ⚡JavaWebServlet_img
+## 🐋JavaWebServlet_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletUML.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletUML.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletResponse.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletResponse.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletRequestUML.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/JavaWebServlet_img/HttpServletRequestUML.png)
@@ -92,7 +95,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/jadx-find-usage.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/jadx-find-usage.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/decoded-str.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/decoded-str.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/m1141-source-code.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/RainBowBracketsCracked_img/m1141-source-code.png)
-## 🐣AndroidFlashRom_img
+## 💦AndroidFlashRom_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/open_cmd.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/xp_module.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/xp_module.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/unlock_success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/AndroidFlashRom_img/unlock_success.png)
@@ -115,7 +118,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/博客首页.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/博客首页.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/菜单管理.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/菜单管理.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/角色编辑.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WhatCouldIDoWhenLearningHalfYearJavaAndHtml/角色编辑.png)
-## ⚡emote
+## 🐬emote
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/小黄脸)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/热词系列一)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/emote/tv_小电视)
@@ -141,7 +144,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/修改配置.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/修改配置.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/新建云函数1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/新建云函数1.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/two.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17wanxiaoCheckInSCF/two.png)
-## 💦17WanXiaoHookGetDeviceId_img
+## 🐬17WanXiaoHookGetDeviceId_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/360.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/360.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/xphook_set2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/xphook_set2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginnew.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/loginnew.png)
@@ -157,9 +160,9 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/5.0.2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/5.0.2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/jadx_5.0.2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/jadx_5.0.2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/xphook_set1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/17WanXiaoHookGetDeviceId_img/xphook_set1.png)
-## 🐬Ubuntu2004MihomoTUNMode_img
+## 🐋Ubuntu2004MihomoTUNMode_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/Ubuntu2004MihomoTUNMode_img/result.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/Ubuntu2004MihomoTUNMode_img/result.png)
-## ⚡default
+## 🐬default
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/wechat_public_account.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/default.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/avatar.jpg)
@@ -169,11 +172,11 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/blog_avatar.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/blog_avatar.jpg)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/link.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/link.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/about.jpg](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/default/about.jpg)
-## 🎨2023AnnualSummary_img
+## 🐋2023AnnualSummary_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/typing.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/typing.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/twitter2.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/twitter2.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/twitter1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/2023AnnualSummary_img/twitter1.png)
-## 🎨WindowsUsage_img
+## 🐣WindowsUsage_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/QQ.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/QQ.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/磁盘管理.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/磁盘管理.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/dism++.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/dism++.png)
@@ -193,7 +196,7 @@
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/win.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/win.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/File_Manage1.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/File_Manage1.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/更改用户账户控制设置.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/WindowsUsage_img/更改用户账户控制设置.png)
-## 🐋FreemarkerSSTIMemShell_img
+## ⚡FreemarkerSSTIMemShell_img
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/godzillaConfig.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/godzillaConfig.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/success.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/success.png)
 [https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/shell.png](https://cdn.jsdelivr.net/gh/ReaJason/blog_imgs/FreemarkerSSTIMemShell_img/shell.png)
